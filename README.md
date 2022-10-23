@@ -41,7 +41,7 @@ $ yarn dev
 
 ## Using PwC_test
 
-To use STH Japan, follow these steps:
+To use PwC_test, follow these steps:
 
 Develop:
 - "dev": "next dev"
@@ -65,7 +65,7 @@ Develop:
 
 
 ## Contributing
-To contribute to STH Japan, follow these steps:
+To contribute to PwC_test, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
