@@ -1,0 +1,7 @@
+{
+  "plugins": ["cypress"],
+  "extends": ["next/core-web-vitals","plugin:cypress/recommended"],
+  "globals": {
+    "cy": true
+  }
+}
