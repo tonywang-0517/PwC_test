@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# PwC_Assessment
+# NextJS_Taiwind_TS_Boilerplate 
 
 ## Getting Started
 
@@ -28,20 +28,20 @@ Created By using:
 Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
 
-## Installing PwC_test
+## Installing NextJS_Taiwind_TS_Boilerplate
 
-To install PwC_test, follow these steps:
+To install NextJS_Taiwind_TS_Boilerplatet, follow these steps:
 
 Linux, macOS and Windows:
 ```
-$ git clone git@github.com:tonywang-0517/PwC_test.git
+$ git clone git@github.com:tonywang-0517/nextjs_ts_taiwind_boilerplate.git
 $ yarn
 $ yarn dev
 ```
 
-## Using PwC_test
+## Using NextJS_Taiwind_TS_Boilerplate
 
-To use PwC_test, follow these steps:
+To use NextJS_Taiwind_TS_Boilerplate, follow these steps:
 
 Develop:
 - "dev": "next dev"
@@ -65,7 +65,7 @@ Develop:
 
 
 ## Contributing
-To contribute to PwC_test, follow these steps:
+To contribute to NextJS_Taiwind_TS_Boilerplate, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
